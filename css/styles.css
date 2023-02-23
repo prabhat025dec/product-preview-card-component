@@ -59,6 +59,7 @@ html, body { height: 100%; width: 100%; top: 0%;right: 0%; bottom:0%; right: 0%;
     top: 7%;
     left: 10%;
     color: hsl(228, 12%, 48%);
+     font-weight: bold;
 }
  .gabrielle{
     position: absolute;
@@ -69,6 +70,7 @@ html, body { height: 100%; width: 100%; top: 0%;right: 0%; bottom:0%; right: 0%;
     color: black;
     font-size: 2rem;
     line-height: 1;
+     font-weight: bold;
 }
  .floral{
     position: absolute;
@@ -83,6 +85,7 @@ html, body { height: 100%; width: 100%; top: 0%;right: 0%; bottom:0%; right: 0%;
     top: 65%;
     color:hsl(228, 12%, 48%);
     font-size: 2.3rem;
+    font-weight: bold;
 }
 .dollar2{
     position: absolute;
